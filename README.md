@@ -16,3 +16,4 @@ Accuracies more than 99% were achieved.
 
 ### References
 * [Qiskit Aqua Documentation](https://qiskit.org/documentation/stubs/qiskit.aqua.algorithms.QSVM.html)
+* [Qiskit Community Tutorials](https://github.com/qiskit-community/qiskit-community-tutorials)
