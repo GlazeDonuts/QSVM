@@ -1,4 +1,4 @@
-# QSVM
+# Quantum Support Vector Machine
 This repository contains a basic implementation of a Quantum Support Vector Machine (QSVM) for binary classification.
 
 The QSVM algorithm takes the classical machine learning algorithm and performs the support vector machine on a quantum circuit in order to be efficiently processed on a quantum computer.
@@ -12,3 +12,7 @@ Below is a dimensionally reduced (via PCA) plot of the breast cancer dataset alo
 </p>
 
 Accuracies more than 99% were achieved.
+
+
+### References
+* [Qiskit Aqua Documentation](https://qiskit.org/documentation/stubs/qiskit.aqua.algorithms.QSVM.html)
